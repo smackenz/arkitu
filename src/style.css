@@ -1,0 +1,16 @@
+
+.fancy {
+  font-family: "HelveticaNeue-Light";
+}
+
+a {
+  color: #00D5C8;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+  position: relative;
+}
